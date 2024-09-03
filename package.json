@@ -1,6 +1,6 @@
 {
   "name": "generate-string",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Generate a js string safely, that defaults to a single quoted string",
   "main": "index.js",
   "dependencies": {},
