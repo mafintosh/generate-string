@@ -8,7 +8,7 @@ npm install generate-string
 
 ## Usage
 
-``` js
+```js
 const generateString = require('generate-string')
 
 console.log(generateString('42')) // '42'
