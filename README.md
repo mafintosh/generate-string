@@ -12,7 +12,8 @@ npm install generate-string
 const generateString = require('generate-string')
 
 console.log(generateString('42')) // '42'
-console.log(generateString('"42')) // "\"42"
+console.log(generateString('"42')) // '"42'
+console.log(generateString("it's")) // 'it\'s'
 ```
 
 ## License
