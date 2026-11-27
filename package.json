@@ -3,8 +3,13 @@
   "version": "1.0.1",
   "description": "Generate a js string safely, that defaults to a single quoted string",
   "main": "index.js",
+  "scripts": {
+    "test": "brittle test.js"
+  },
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "brittle": "^4.5.0"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/mafintosh/generate-string.git"
